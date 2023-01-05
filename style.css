@@ -1,0 +1,14 @@
+body {
+    font-family: monospace;
+    padding: 20px;
+    padding-top: 0;
+}
+
+img {
+    width: 50%;
+    height: auto;
+    border: 5px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 5px;
+}
